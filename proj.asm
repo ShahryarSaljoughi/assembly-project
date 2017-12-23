@@ -1,4 +1,4 @@
-; written by elaheh seyyeding azar, 1396
+
 %macro push_all_general_purpose_regs 0
     push eax
     push ebx
